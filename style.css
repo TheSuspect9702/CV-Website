@@ -44,7 +44,7 @@ li {
 .address-icon {
     width: 16px;
     height: 16px;
-    background-color: blue;
+    background-color: cornflowerblue;
     margin-right: 10px;
     padding: 4px;
     vertical-align: middle;
@@ -105,7 +105,7 @@ li {
     width: 960px;
     margin: 0 auto;
     box-shadow: 0 0 20px grey;
-    background-color: floralwhite;
+    background-color: aliceblue;
 }
 .footer{
     text-align: center;
